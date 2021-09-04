@@ -7,6 +7,14 @@ assignees: ''
 
 ---
 
+<!--
+Please do not remove anything written below.
+ 
+Fill the details and open the issue. Any issue that 
+doesn't have all of these filled in will be closed, 
+if yours is closed reopen with everything filled in.  
+-->
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 

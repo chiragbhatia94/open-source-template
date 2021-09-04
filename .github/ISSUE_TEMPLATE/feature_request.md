@@ -7,6 +7,14 @@ assignees: ''
 
 ---
 
+<!--
+Please do not remove anything written below.
+ 
+Fill the details and open the issue. Any issue that 
+doesn't have all of these filled in will be closed, 
+if yours is closed reopen with everything filled in.  
+-->
+
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
