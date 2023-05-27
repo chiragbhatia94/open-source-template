@@ -28,7 +28,7 @@ Download the project zip & unzip & jump start your project.
 Clone the project and change the origin remote repo to your git repo, following commands might be handy
 
 ```bash
-git clone http://github.com/technicalnotes/open-source-template
+git clone http://github.com/chiragbhatia94/open-source-template
 cd open-source-template
 git remote remove origin
 git remote add origin <!-- your github repo -->
@@ -60,14 +60,14 @@ Please read out contributing [guidelines](contributing/README.md) for details.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/tecnicalnotes/technicalnotes/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/chiragbhatia94/open-source-template/tags).
 
 ## Authors
 
 * **Chirag Bhatia** - *Initial work* - [chiragbhatia94](https://github.com/chiragbhatia94)
 
 <!-- TODO: Update your GitHub repository here -->
-See also the list of [contributors](https://github.com/tecnicalnotes/technicalnotes/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/chiragbhatia94/open-source-template/contributors) who participated in this project.
 
 ## License
 
