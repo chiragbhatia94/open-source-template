@@ -28,8 +28,8 @@ Download the project zip & unzip & jump start your project.
 Clone the project and change the origin remote repo to your git repo, following commands might be handy
 
 ```bash
-git clone http://github.com/technicalnotes/oss-template
-cd oss-template
+git clone http://github.com/technicalnotes/open-source-template
+cd open-source-template
 git remote remove origin
 git remote add origin <!-- your github repo -->
 ```
@@ -76,7 +76,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* [OSS Template](https://github.com/techincalnotes/oss-template)
 * [commitizen](https://github.com/commitizen/cz-cli)
 * [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 <!-- TODO: Hat tip to anyone whose code was used or who served as an inspiration for this repo -->
