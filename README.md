@@ -56,7 +56,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Please read out contributing [guidelines](contributing/README.md) for details.
+Please read out contributing [guidelines](CONTRIBUTING.md) for details.
 
 ## Versioning
 
